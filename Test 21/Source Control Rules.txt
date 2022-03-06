@@ -1,0 +1,3 @@
+1. If you plan to access something that you didn't create, inform the person who created it 
+2. Push progress regularly
+3. For Unity projects, make sure projrect files are in the root folder, not a separate folder
